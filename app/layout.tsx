@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: "Advance Ohio Cares Solutions - Contact Validator & Data Verification",
   description:
     "Professional B2B contact validation and data verification tools. Clean, verify, and enrich email/contact data for better outbound sales outcomes.",
+  icons: {
+    icon: "/favicon.png",
+  },
   keywords: "email verification, data validation, contact validator, contact accuracy, B2B sales tools",
     generator: 'v0.dev'
 }
